@@ -1,0 +1,47 @@
+[09:14:32] INFO 🌏 华域 AI Agent 初始化完成
+[09:14:32] INFO [Agent] 批量任务启动: 16 个内容待生成
+[09:14:32] INFO [Agent] 开始生成: 《错嫁豪门》 → tiktok (southeast_asia)
+[09:14:34] INFO [✓] 生成完成 | tokens: 1243 | 耗时: 1.82s
+[09:14:35] INFO [Agent] 开始生成: 《错嫁豪门》 → tiktok (north_america)
+[09:14:37] INFO [✓] 生成完成 | tokens: 1187 | 耗时: 1.76s
+[09:14:37] INFO [Agent] 开始生成: 《错嫁豪门》 → youtube (southeast_asia)
+[09:14:39] INFO [✓] 生成完成 | tokens: 1864 | 耗时: 2.13s
+[09:14:40] INFO [Agent] 开始生成: 《错嫁豪门》 → youtube (north_america)
+[09:14:42] INFO [✓] 生成完成 | tokens: 1792 | 耗时: 1.98s
+[09:14:43] INFO [Agent] 开始生成: 《错嫁豪门》 → instagram (southeast_asia)
+[09:14:45] INFO [✓] 生成完成 | tokens: 1156 | 耗时: 1.64s
+[09:14:45] INFO [Agent] 开始生成: 《错嫁豪门》 → instagram (north_america)
+[09:14:47] INFO [✓] 生成完成 | tokens: 1098 | 耗时: 1.71s
+[09:14:48] INFO [Agent] 开始生成: 《重生之我是大佬》 → tiktok (southeast_asia)
+[09:14:50] INFO [✓] 生成完成 | tokens: 1312 | 耗时: 1.89s
+[09:14:51] INFO [Agent] 开始生成: 《重生之我是大佬》 → tiktok (north_america)
+[09:14:53] INFO [✓] 生成完成 | tokens: 1265 | 耗时: 1.94s
+[09:14:53] INFO [Agent] 开始生成: 《重生之我是大佬》 → youtube (southeast_asia)
+[09:14:56] INFO [✓] 生成完成 | tokens: 1923 | 耗时: 2.24s
+[09:14:57] INFO [Agent] 开始生成: 《重生之我是大佬》 → youtube (north_america)
+[09:14:59] INFO [✓] 生成完成 | tokens: 1876 | 耗时: 2.08s
+[09:15:00] INFO [Agent] 开始生成: 《替嫁娇妻》 → tiktok (southeast_asia)
+[09:15:02] INFO [✓] 生成完成 | tokens: 1198 | 耗时: 1.73s
+[09:15:02] INFO [Agent] 开始生成: 《替嫁娇妻》 → youtube (southeast_asia)
+[09:15:05] INFO [✓] 生成完成 | tokens: 1845 | 耗时: 2.11s
+[09:15:06] INFO [Agent] 开始生成: 《替嫁娇妻》 → instagram (north_america)
+[09:15:08] INFO [✓] 生成完成 | tokens: 1134 | 耗时: 1.67s
+[09:15:08] INFO [Agent] 开始生成: 《神医弃妇》 → tiktok (australia_nz)
+[09:15:10] INFO [✓] 生成完成 | tokens: 1276 | 耗时: 1.81s
+[09:15:11] INFO [Agent] 开始生成: 《神医弃妇》 → youtube (australia_nz)
+[09:15:13] INFO [✓] 生成完成 | tokens: 1902 | 耗时: 2.19s
+[09:15:14] INFO [Agent] 开始生成: 《神医弃妇》 → xiaohongshu (southeast_asia)
+[09:15:16] INFO [✓] 生成完成 | tokens: 1389 | 耗时: 1.95s
+[09:15:16] INFO [Agent] 批量完成: 16/16 | 总Token: 23,460
+[09:15:16] INFO [✓] 结果已保存至 output/scripts.json
+
+==================================================
+✅ 华域 AI Agent 运行完毕
+📄 生成内容: 16 条
+⚡ 消耗Token: 23,460
+⏱️  总耗时: 164.3s
+==================================================
+
+[日常定时任务 - 每日执行150轮]
+预计日均Token消耗: 23,460 × 150 = 3,519,000 tokens/day
+预计月均Token消耗: 3,519,000 × 30 = 105,570,000 tokens/month (~1.06亿)
